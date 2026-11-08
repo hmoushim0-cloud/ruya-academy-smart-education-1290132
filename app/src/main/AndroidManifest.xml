@@ -10,7 +10,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="تطبيق رؤية للتدريب — مراجعة أسئلة ودروس التحصيلي"
+        android:label="أكاديمية رؤية للتعليم والتحصيلي - Ruya Edu"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
         <activity
